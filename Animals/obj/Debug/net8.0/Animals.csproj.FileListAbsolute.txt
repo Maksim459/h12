@@ -1,0 +1,14 @@
+D:\Visual\Animals\bin\Debug\net8.0\Animals.exe
+D:\Visual\Animals\bin\Debug\net8.0\Animals.deps.json
+D:\Visual\Animals\bin\Debug\net8.0\Animals.runtimeconfig.json
+D:\Visual\Animals\bin\Debug\net8.0\Animals.dll
+D:\Visual\Animals\bin\Debug\net8.0\Animals.pdb
+D:\Visual\Animals\obj\Debug\net8.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Animals\obj\Debug\net8.0\Animals.AssemblyInfoInputs.cache
+D:\Visual\Animals\obj\Debug\net8.0\Animals.AssemblyInfo.cs
+D:\Visual\Animals\obj\Debug\net8.0\Animals.csproj.CoreCompileInputs.cache
+D:\Visual\Animals\obj\Debug\net8.0\Animals.dll
+D:\Visual\Animals\obj\Debug\net8.0\refint\Animals.dll
+D:\Visual\Animals\obj\Debug\net8.0\Animals.pdb
+D:\Visual\Animals\obj\Debug\net8.0\Animals.genruntimeconfig.cache
+D:\Visual\Animals\obj\Debug\net8.0\ref\Animals.dll

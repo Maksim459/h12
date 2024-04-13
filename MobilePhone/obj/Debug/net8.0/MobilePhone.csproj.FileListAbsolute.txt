@@ -1,0 +1,14 @@
+D:\Visual\MobilePhone\bin\Debug\net8.0\MobilePhone.exe
+D:\Visual\MobilePhone\bin\Debug\net8.0\MobilePhone.deps.json
+D:\Visual\MobilePhone\bin\Debug\net8.0\MobilePhone.runtimeconfig.json
+D:\Visual\MobilePhone\bin\Debug\net8.0\MobilePhone.dll
+D:\Visual\MobilePhone\bin\Debug\net8.0\MobilePhone.pdb
+D:\Visual\MobilePhone\obj\Debug\net8.0\MobilePhone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\MobilePhone\obj\Debug\net8.0\MobilePhone.AssemblyInfoInputs.cache
+D:\Visual\MobilePhone\obj\Debug\net8.0\MobilePhone.AssemblyInfo.cs
+D:\Visual\MobilePhone\obj\Debug\net8.0\MobilePhone.csproj.CoreCompileInputs.cache
+D:\Visual\MobilePhone\obj\Debug\net8.0\MobilePhone.dll
+D:\Visual\MobilePhone\obj\Debug\net8.0\refint\MobilePhone.dll
+D:\Visual\MobilePhone\obj\Debug\net8.0\MobilePhone.pdb
+D:\Visual\MobilePhone\obj\Debug\net8.0\MobilePhone.genruntimeconfig.cache
+D:\Visual\MobilePhone\obj\Debug\net8.0\ref\MobilePhone.dll
